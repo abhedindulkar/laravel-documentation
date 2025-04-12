@@ -17,6 +17,7 @@ class AiSingletonFacade extends Facade
      */
     protected static function getFacadeAccessor()
     {
+        //test
         return 'ai-singleton';
     }
 }
